@@ -21,9 +21,9 @@ nav{
 
 label.logo{
     color: white;
-    font-size: 40px;
-    line-height: 80px;
-    padding: 0 100px;
+    font-size: 20px; 
+    line-height: 90px;
+    padding: 0 90px;
     font-weight: bold;
 }
 
@@ -44,7 +44,7 @@ nav ul li a{
     color: #fff;
     text-decoration: none;
     font-weight: bold;
-    font-size: 17px;
+    font-size: 12px;
     align-items: center;
     text-transform: uppercase;
 }
@@ -94,6 +94,7 @@ nav ul li a{
     label.logo{
         font-size: 20px;
         font-weight: bold;
+        text-align: start;
     }
 
     .check-btn{
@@ -155,13 +156,13 @@ nav ul li a{
     }
 
     label .logo{
-        font-size: 30px;
-        padding-left: 50px;
+        font-size: 20px;
+        padding-left: 30px;
     }
 
     nav ul li a{
-        font-size: 16px;
-    }
+        font-size: 15px;
+    } 
 
     .Text{
         width: 100%;
